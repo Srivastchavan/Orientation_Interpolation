@@ -1,0 +1,13 @@
+﻿  Aircraft_Animation.cpp
+C:\Users\Srivastchavan\Documents\AnimationAssignments\Assignment4\sxr190067Asg4\sxr190067Asg4\Aircraft_Animation.h(18,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Srivastchavan\Documents\AnimationAssignments\Assignment4\sxr190067Asg4\sxr190067Asg4\Aircraft_Animation.h(19,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Srivastchavan\Documents\AnimationAssignments\Assignment4\sxr190067Asg4\sxr190067Asg4\Aircraft_Animation.cpp(213,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Srivastchavan\Documents\AnimationAssignments\Assignment4\sxr190067Asg4\sxr190067Asg4\Aircraft_Animation.cpp(244,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  1 of 1672 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+glew32s.lib(glew.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'glew32s.lib(glew.obj)' or at 'C:\Users\Srivastchavan\Documents\AnimationAssignments\Assignment4\sxr190067Asg4\x64\Release\vc120.pdb'; linking object as if no debug info
+  sxr190067Asg4.vcxproj -> C:\Users\Srivastchavan\Documents\AnimationAssignments\Assignment4\sxr190067Asg4\x64\Release\sxr190067Asg4.exe
